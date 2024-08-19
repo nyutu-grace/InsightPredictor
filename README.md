@@ -17,6 +17,7 @@ The objective of this project is to leverage data science techniques to analyze 
 ## Project Structure
 -   **/data:** Contains the evaluation set and data preparation scripts.
 -   **/notebooks:** Contains jupyter notebooks for analysis.
+-   **/screenshots:** Contains visuals from the analysis.
 -   **/scripts:** Contains utility scripts.
 -   **/requirements.txt:** Lists of dependencies.
 
